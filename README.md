@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Carranti
+- 👋 Hi, I’m Drew Carranti
 - 👨‍🔬 I'm currently working on a research team looking into the application of Automatic Market Makers for equity markets
 - 💼 I most recently worked @ CSL Behring as a Data Science Intern on the Advanced Analytics & AI team
 - 🌱 I’m currently studying Quantitative Finance & Financial Engineering @ SIT (Python, R, C++, JS, SQL, Java) 
