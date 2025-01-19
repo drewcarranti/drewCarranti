@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Drew Carranti
-- 💼 Global Markets Sales Strat & Trading Summer Analyst @ Goldman Sachs
+- 💼 FICC & Equities Trading @ Goldman Sachs
 - 🎓 MFE @ Stevens Institute of Technology
 - 📫 Contact @ acarrant@stevens.com
 
